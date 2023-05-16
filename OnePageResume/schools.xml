@@ -1,0 +1,39 @@
+<escuelas>
+    <introduiccion>Este es un apartado de las escuelas que aceptan estudiantes de FIME</introduiccion>
+    <escuela>
+        <nombre>Universidad de Texas en Austin</nombre>
+        <ubicacion>Estados Unidos</ubicacion>
+        <descripcion>La Universidad de Texas en Austin tiene un programa de intercambio estudiantil
+            abierto a estudiantes internacionales, incluidos aquellos de Nuevo León. Es una
+            institución de renombre con una amplia gama de disciplinas académicas.</descripcion>
+    </escuela>
+    <escuela>
+        <nombre>Universidad de Monterrey, California</nombre>
+        <ubicacion>Estados Unidos</ubicacion>
+        <descripcion>La Universidad de Monterrey, California ofrece oportunidades de intercambio
+            para estudiantes internacionales. Esta institución se encuentra en Monterrey,
+            California, y ofrece una variedad de programas académicos.</descripcion>
+    </escuela>
+    <escuela>
+        <nombre>Universidad de Deusto</nombre>
+        <ubicacion>España</ubicacion>
+        <descripcion> La Universidad de Deusto, ubicada en Bilbao, España, acepta estudiantes de
+            intercambio de todo el mundo. Cuenta con programas académicos en diversas áreas y una
+            sólida reputación en la educación superior.</descripcion>
+    </escuela>
+    <escuela>
+        <nombre>Universidad de Alberta</nombre>
+        <ubicacion>Canadá</ubicacion>
+        <descripcion> La Universidad de Alberta en Canadá tiene un programa de intercambio
+            estudiantil que permite a los estudiantes internacionales estudiar allí por un semestre
+            o un año académico. La universidad es reconocida por su excelencia en investigación y
+            enseñanza.</descripcion>
+    </escuela>
+    <escuela>
+        <nombre>Universidad de Auckland</nombre>
+        <ubicacion>Nueva Zelanda</ubicacion>
+        <descripcion> La Universidad de Auckland es la universidad más grande de Nueva Zelanda y
+            acepta estudiantes internacionales de intercambio. Ofrece una amplia gama de programas
+            académicos y se encuentra en una hermosa ciudad costera.</descripcion>
+    </escuela>
+</escuelas>
