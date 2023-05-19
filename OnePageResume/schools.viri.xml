@@ -1,0 +1,72 @@
+<escuelas>
+    <introduiccion>Este es un apartado de las escuelas que aceptan estudiantes de FIME</introduiccion>
+    <Universidad>
+        <Nombre_Uni>Universidad Nacional de la Plata</Nombre_Uni>
+        <Pais>Argentina</Pais>
+        <Ciudad>La Plata</Ciudad>
+        <Facultad>Facultad de Informatica</Facultad>
+        <Carrera abreviacion="APU">Analista Programador Universitario</Carrera>
+        <Requisitos>Cursar, como máximo, hasta 4 asignaturas semestrales</Requisitos>
+        <Periodos>Semestral</Periodos>
+        <Calif_min>85</Calif_min>
+        <Mat_Rev>Programación Orientada a Objetos, Seminario de Lenguajes, Matematicas 2</Mat_Rev>
+        <Contactos>
+            <correo>difusion@info.unlp.edu.ar</correo>
+            <telefono>(0221) 4277270</telefono>
+        </Contactos>
+    </Universidad>
+ 
+    <Universidad>
+        <Nombre_Uni>Universidad de La Laguna</Nombre_Uni>
+        <Pais>España</Pais>
+        <Ciudad>San Cristóbal de La Laguna</Ciudad>
+        <Facultad>Escuela Superior de Ingeniería y Tecnología</Facultad>
+        <Carrera abreviacion="">Ingeniería Informática</Carrera>
+        <Requisitos>La Institución o Universidad debe recomendarte</Requisitos>
+        <Periodos>Cuatrimestre</Periodos>
+        <Calif_min>85</Calif_min>
+        <Mat_Rev>Inglés, Álgebra y Cálculo</Mat_Rev>
+        <Contactos>
+            <correo>esit@ull.es</correo>
+            <telefono>(+34) 922 84 50 59</telefono>
+        </Contactos>
+    </Universidad>
+ 
+    <Universidad>
+        <Nombre_Uni>Nagaoka University of Technology</Nombre_Uni>
+        <Pais>Japon</Pais>
+        <Ciudad>Nagaoka</Ciudad>
+        <Facultad></Facultad>
+        <Carrera abreviacion="IMSE">Information and Management Systems Engineering</Carrera>
+        <Requisitos>Habiliades inventigadoras,tecnológicas y proactividad.
+        Ser aceptado por el Instituto Nacional de Tecnología, recomendado por tu universidad o institución.
+        Aprovar las examinaciones orales, entrevistas y documentación.
+        Tomar los cursos de japonés que imparte la universidad-</Requisitos>
+        <Periodos>Máximo, un año</Periodos>
+        <Calif_min>85</Calif_min>
+        <Mat_Rev>Consultar con nuestra Institución</Mat_Rev>
+        <Contactos>
+            <correo>ryugaku@jcom.nagaokaut.ac.jp</correo>
+            <telefono>+81 258-46-6000</telefono>
+        </Contactos>
+    </Universidad>
+ 
+    <Universidad>
+        <Nombre_Uni>Nagoya University</Nombre_Uni>
+        <Pais>Japon</Pais>
+        <Ciudad>Chikusa-ku</Ciudad>
+        <Facultad>Automotive Engineering</Facultad>
+        <Carrera abreviacion="EII">Electrical, Electronic and Information Engineering</Carrera>
+        <Requisitos>a. Haber completado 12 años de educación fuera del sistema educacional japones.
+        b. El solicitante ha adquirido o se espera que adquiera el Bachillerato Internacional, el Abitur, el Bachillerato Francés, o el Certificado General de Educación (GCE) Nivel Avanzado (A-Level) antes del 30 de septiembre de 2023.
+        c. El solicitante ha completado, o se espera que complete, un plan de estudios de educación de 12 años en una escuela acreditada por la Asociación Occidental de Escuelas y Universidades (WASC), la Asociación de Escuelas Cristianas Internacionales (ACSI), o el Consejo Europeo de Colegios Internacionales (CIS).
+        d. Realizar dos ensayos</Requisitos>
+        <Periodos>Un semestre o un año</Periodos>
+        <Calif_min>85</Calif_min>
+        <Mat_Rev>Consulte con su institución</Mat_Rev>
+        <Contactos>
+            <correo>eng-admission@adm.nagoya-u.ac.jp</correo>
+            <telefono>+81-(0)52-789-3603</telefono>
+        </Contactos>
+    </Universidad>
+</escuelas>

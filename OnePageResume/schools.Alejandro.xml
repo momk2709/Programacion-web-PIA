@@ -1,0 +1,77 @@
+<escuelas>
+    <introduiccion>Este es un apartado de las escuelas que aceptan estudiantes de FIME</introduiccion>
+    <escuela>
+        <nombre>Universidad de Texas en Austin</nombre>
+        <ubicacion>Estados Unidos</ubicacion>
+        <descripcion>La Universidad de Texas en Austin tiene un programa de intercambio estudiantil
+            abierto a estudiantes internacionales, incluidos aquellos de Nuevo León. Es una
+            institución de renombre con una amplia gama de disciplinas académicas.</descripcion>
+    </escuela>
+    <escuela>
+        <nombre>Universidad de Monterrey, California</nombre>
+        <ubicacion>Estados Unidos</ubicacion>
+        <descripcion>La Universidad de Monterrey, California ofrece oportunidades de intercambio
+            para estudiantes internacionales. Esta institución se encuentra en Monterrey,
+            California, y ofrece una variedad de programas académicos.</descripcion>
+    </escuela>
+    <escuela>
+        <nombre>Universidad de Deusto</nombre>
+        <ubicacion>España</ubicacion>
+        <descripcion> La Universidad de Deusto, ubicada en Bilbao, España, acepta estudiantes de
+            intercambio de todo el mundo. Cuenta con programas académicos en diversas áreas y una
+            sólida reputación en la educación superior.</descripcion>
+    </escuela>
+    <escuela>
+        <nombre>Universidad de Alberta</nombre>
+        <ubicacion>Canadá</ubicacion>
+        <descripcion> La Universidad de Alberta en Canadá tiene un programa de intercambio
+            estudiantil que permite a los estudiantes internacionales estudiar allí por un semestre
+            o un año académico. La universidad es reconocida por su excelencia en investigación y
+            enseñanza.</descripcion>
+    </escuela>
+    <escuela>
+        <nombre>Universidad de Auckland</nombre>
+        <ubicacion>Nueva Zelanda</ubicacion>
+        <descripcion> La Universidad de Auckland es la universidad más grande de Nueva Zelanda y
+            acepta estudiantes internacionales de intercambio. Ofrece una amplia gama de programas
+            académicos y se encuentra en una hermosa ciudad costera.</descripcion>
+    </escuela>
+    <escuela>
+        <nombre>Universidad Técnica Hamburg-Harburg</nombre>
+        <ubicacion>Alemania</ubicacion>
+        <descripcion>Luniversidad Técnica de Hamburg-Harburg tiene como objetivo colaborar en el área 
+        de las ingenierías a través de sus facultades y departamentos, y mediante proyectos enfocados 
+        a la investigación y a la enseñanza.</descripcion>
+    </escuela>
+    <escuela>
+        <nombre>Universidad de Magdeburgo</nombre>
+        <ubicacion>Alemania</ubicacion>
+        <descripcion>La Universidad de Monterrey, California ofrece oportunidades de intercambio
+            para estudiantes internacionales. Esta institución se encuentra en Monterrey,
+            California, y ofrece una variedad de programas académicos.</descripcion>
+    </escuela>
+    <escuela>
+        <nombre>Institut national des sciences appliquées de Lyon</nombre>
+        <ubicacion>Francia</ubicacion>
+        <descripcion> Al integrar el INSA Lyon, eliges una escuela de ingeniería de referencia cuyos 
+        valores y reputación se refuerzan con más de 50 años de experiencia. El INSA Lyon ofrece una 
+        gran variedad de programas óptimos para todos los perfiles y garantiza el buen desarrollo de 
+        tu intercambio, gracias a sus infraestructuras y servicios que son diseñados para fomentar y 
+        profundizar tu experiencia.</descripcion>
+    </escuela>
+    <escuela>
+        <nombre>Universidad de Roma Tor Vergata</nombre>
+        <ubicacion>Italia</ubicacion>
+        <descripcion>La Universidad de Roma Tor Vergata sobresale en los campos de ingeniería y medicina.
+         Tiene como misión el contribuir a la formación de sus alumnos y al desarrollo de la investigación 
+         científica para alentar la innovación y el crecimiento de la sociedad.</descripcion>
+    </escuela>
+    <escuela>
+        <nombre>Universidad Nacional del Noroeste de la Provincia de Buenos Aires</nombre>
+        <ubicacion>Argentina</ubicacion>
+        <descripcion> La Universidad Nacional del Noroeste de la Provincia de Buenos Aires establece un 
+        programa de intercambios internacionales a 
+        académicos, estudiantes, de materiales e información académica, así como programas conjuntos de 
+        investigación.</descripcion>
+    </escuela>
+</escuelas>
